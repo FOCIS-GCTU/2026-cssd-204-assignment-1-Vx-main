@@ -5,10 +5,11 @@
 # Name: ISIDORE NNAJI NNAMDI
 # STUDENT ID:  2425401135
 # Email: 2425401135@live.gctu.edu.gh
-# Grader: Mr. Augustus Buckman
+# Grader: Augustus
 # 
 # On my honor, ISIDORE NNAJI NNAMDI, this programming assignment is my own work
 # and I have not provided this code to any other student.
+
 
 def main():
   #This is the main function for printing my initiala
@@ -26,5 +27,6 @@ def main():
   print("...IIIIIIIIIIII...**...NNNN....NNNN...**...NNNN....NNNN...**")
   print("...IIIIIIIIIIII...**...NNNN....NNNN...**...NNNN....NNNN...**")
   print()
+
 
 main()
